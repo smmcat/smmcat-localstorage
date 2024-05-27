@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-smmcat-localstorage",
+  "description": "以JSON数据为用户提供本地存储方案",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.17.6"
+  }
+}
